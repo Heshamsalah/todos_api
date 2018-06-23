@@ -18,4 +18,4 @@ Rails 5.2.0 and Ruby 2.4.1
 * PUT /todos/:id/items	Update a todo item
 * DELETE /todos/:id/items	Delete a todo item
 
-I'm following this tutorial: (here)[https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one]
+I'm following this tutorial: [here](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
